@@ -3,7 +3,7 @@
 Batch: **OSF26-CATALOG**
 Playlist: `PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P` (Open Source Fridays, GitHub channel)
 Snapshot generated: 2026-05-02
-Snapshot scope: playlist listing positions 0-30 (sessions published 2026-10-17 through 2026-04-18)
+Snapshot scope: playlist listing positions 0-30 (sessions published 2026-04-18 through 2026-10-17)
 
 This repository holds the internal readiness snapshot backing the 2026 partner
 integration catalog check (`evaluation/main.py` -> `required_repositories`).
