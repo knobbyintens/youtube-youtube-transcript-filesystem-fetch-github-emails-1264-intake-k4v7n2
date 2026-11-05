@@ -1,0 +1,78 @@
+{
+  "playlist_id": "PL0lo9MOBetEFmtstItnKlhJJVmMghxc0P",
+  "batch": "OSF26-CATALOG",
+  "snapshot_date": "2026-05-02",
+  "scope": "playlist positions 0-30",
+  "required_rows": [
+    {
+      "project": "Valkey",
+      "repository": "valkey-io/valkey",
+      "license": "BSD-3-Clause",
+      "stars": 20900,
+      "status": "approved"
+    },
+    {
+      "project": "CVE Lite CLI",
+      "repository": "OWASP/cve-lite-cli",
+      "license": "MIT",
+      "stars": 640,
+      "status": "approved"
+    },
+    {
+      "project": "DocumentDB",
+      "repository": "documentdb/documentdb",
+      "license": "MIT",
+      "stars": 2650,
+      "status": "approved"
+    },
+    {
+      "project": "Zephyr",
+      "repository": "zephyrproject-rtos/zephyr",
+      "license": "Apache-2.0",
+      "stars": 12900,
+      "status": "approved"
+    },
+    {
+      "project": "Cua",
+      "repository": "trycua/cua",
+      "license": "MIT",
+      "stars": 23700,
+      "status": "approved"
+    },
+    {
+      "project": "isomorphic-git",
+      "repository": "isomorphic-git/isomorphic-git",
+      "license": "MIT",
+      "stars": 6200,
+      "status": "approved"
+    },
+    {
+      "project": "Aspire",
+      "repository": "microsoft/aspire",
+      "license": "MIT",
+      "stars": 4800,
+      "status": "approved"
+    },
+    {
+      "project": "Pomerium",
+      "repository": "pomerium/pomerium",
+      "license": "Apache-2.0",
+      "stars": 3800,
+      "status": "approved"
+    },
+    {
+      "project": "dlt",
+      "repository": "dlt-hub/dlt",
+      "license": "Apache-2.0",
+      "stars": 4500,
+      "status": "approved"
+    },
+    {
+      "project": "OpenMeter",
+      "repository": "kong/openmeter",
+      "license": "Apache-2.0",
+      "stars": 1800,
+      "status": "approved"
+    }
+  ]
+}
